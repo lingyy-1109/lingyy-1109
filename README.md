@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m currently working on biomedical signal processing and gait analysis
 <!--
 **lingyy-1109/lingyy-1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
